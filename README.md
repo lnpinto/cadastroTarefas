@@ -1,4 +1,4 @@
-# cadastroTarefas
+# CadastroTarefas
 Sistema para cadastro de tarefas
 
 📌 Desafio: Gerenciador de Tarefas Inteligente
